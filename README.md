@@ -23,5 +23,3 @@ A full-stack web application developed to measure and compare electrical energy 
 - Implemented CRUD operations.
 - Tested and debugged the application.
 
-## Screenshots
-Screenshots will be added soon.
