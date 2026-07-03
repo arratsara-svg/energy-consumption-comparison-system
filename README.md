@@ -23,3 +23,24 @@ A full-stack web application developed to measure and compare electrical energy 
 - Implemented CRUD operations.
 - Tested and debugged the application.
 
+  
+### Home Page
+
+![BILL](1.png)
+
+### Login Page
+
+![OLD BILL LIST](2.png)
+
+### Dashboard
+
+![LOGIN](3.png)
+
+### Reports
+
+![HOME](4.png)
+
+### Comparison
+
+![READ THE ELECTRICITY METER](5.png)
+
